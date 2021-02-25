@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 This is sample deployment text.
 
 ## How to Contribute
+
+## Copyright
+
+Copyright notice innit
