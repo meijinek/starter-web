@@ -16,6 +16,8 @@ This is sample deployment text.
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull REquests for review.
+
 ## Copyright
 
 Copyright notice innit
