@@ -22,4 +22,4 @@ Please fork this repository and then issue Pull REquests for review.
 
 ## Copyright
 
-Copyright notice innit
+Copyright notice innit. All rights reserved.
